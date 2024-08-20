@@ -1,4 +1,4 @@
-#DxBIN.GUI-Model
+# DxBIN.GUI-Model **ver:0.1**
 
 Full-featured graphical interface that can output data on the base
 
@@ -12,8 +12,8 @@ Author: Wldoui
 The application searches data only by number.
 
 >  If it takes you too long to search for a number
->  Either you have downloaded a too large database
->  Or you're a fucking stupid nerd and idiot with old hardware❤.
+>  either you have downloaded a too large database
+>  or you're a fucking stupid nerd and idiot with old hardware❤.
 
 ![ico](Resources/1.png)
 
