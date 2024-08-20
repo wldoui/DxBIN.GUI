@@ -1,9 +1,11 @@
 #DxBIN.GUI-Model
 
 Full-featured graphical interface that can output data on the base
+
 > [!IMPORTANT]
 It is necessary to follow the correct installation order
 There must be a database in the folder with the .exe file
+![ico](Resources/info.png)
 
 Author: Wldoui
 
@@ -22,6 +24,10 @@ Testers: [Parqa](https://github.com/Kalstro)
 <summary>Spaced spoiler</summary>
 
 ![ico](Resources/2.png)
+
+![ico](Resources/yhti.png)
+
+~я заебался~
 
 </details>
 </p>
