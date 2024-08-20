@@ -1,4 +1,4 @@
-##DxBIN.GUI-Model
+#DxBIN.GUI-Model
 
 Full-featured graphical interface that can output data on the base
 > [!IMPORTANT]
@@ -13,7 +13,7 @@ The application searches data only by number.
 >  Either you have downloaded a too large database
 >  Or you're a fucking stupid nerd and idiot with old hardware❤.
 
-![ico](..main/Resources/1.png)
+![ico](main/Resources/1.png)
 
 Testers: [Parqa](https://github.com/Kalstro)
 
@@ -21,7 +21,7 @@ Testers: [Parqa](https://github.com/Kalstro)
 <details>
 <summary>Spaced spoiler</summary>
 
-![ico](..main/Resources/2.png)
+![ico](main/Resources/2.png)
 
 </details>
 </p>
