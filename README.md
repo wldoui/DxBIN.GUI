@@ -17,7 +17,7 @@ The application searches data only by number.
 
 ![ico](Resources/1.png)
 
-Testers: [Parqa](https://github.com/Kalstro)
+Testers: Parqa
 
 <p>
 <details>
